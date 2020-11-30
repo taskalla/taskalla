@@ -11,8 +11,13 @@ This repository will, in the near future, contain developer documentation, contr
 
 ## Repositories
 
+### Apps
+
 | Name                                                  | Description                    | Language                                                                                      | Development status                                                       |
 | ----------------------------------------------------- | ------------------------------ | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **Apps**                                              |
 | [taskalla/api](https://github.com/taskalla/api)       | Taskalla's GraphQL backend/API | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)                         | ![In progress](https://img.shields.io/badge/Status-In%20progress-yellow) |
 | [taskalla/web](https://github.com/taskalla/web)       | Taskalla's React frontend      | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) | ![In progress](https://img.shields.io/badge/Status-In%20progress-yellow) |
 | [taskalla/mobile](https://github.com/taskalla/mobile) | Taskalla's Flutter mobile app  | ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)                   | ![Not started](https://img.shields.io/badge/Status-Not%20started-red)    |
+| **Official integrations**                             |
+| [taskalla/trello](https://github.com/taskalla/trello) | Integration with Trello        | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) | ![Not started](https://img.shields.io/badge/Status-Not%20started-red)    |
