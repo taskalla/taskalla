@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/taskalla.png" height="100">
+    <img src="https://github.com/taskalla/branding/raw/master/icon-512.png" height="100">
     <h1>Taskalla</h1>
 </div>
 
